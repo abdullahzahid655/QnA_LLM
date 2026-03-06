@@ -176,7 +176,23 @@ This enables exact span extraction from passages.
 
 ---
 
-## 🔧 Tech Stack
+## � Results & Visualizations
+
+### 📊 Dataset Distributions
+![Dataset Distributions](outputs/fig1_distributions.png)
+
+### 📈 Topic Analysis
+![Topic Analysis](outputs/fig2_topics.png)
+
+### 📋 Evaluation Metrics
+![Evaluation Metrics](outputs/fig3_evaluation.png)
+
+### 🏆 Performance Dashboard
+![Performance Dashboard](outputs/dashboard_final.png)
+
+---
+
+## �🔧 Tech Stack
 
 <div align="center">
 
